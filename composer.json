@@ -1,0 +1,15 @@
+{
+    "name": "cache/cache-com-php",
+    "description": "Para eu reutilizar",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "David Teixeira Pereira Ferreira"
+        }
+    ],
+    "require": {}
+}
